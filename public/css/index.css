@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "NormBold";
+    src: local("NormBold"),
+     url("../fonts/norm-sans/norm-sans-WOFF/Norm-Bold.woff") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Montserrat";
+    src: local("Montserrat"),
+     url("../fonts/montserrat/Montserrat-Black.ttf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "MontserratLight";
+    src: local("Montserrat"),
+     url("../fonts/montserrat/Montserrat-Light.ttf") format("truetype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "MontserratBlack";
+    src: local("Montserrat"),
+     url("../fonts/montserrat/Montserrat-Black.ttf") format("truetype");
+    font-weight: bold;
+}
